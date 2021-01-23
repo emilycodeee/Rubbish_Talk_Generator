@@ -1,5 +1,7 @@
 # 幹話產生器(Rubbish Talk Generator)
 
+一個使用 Node.js + Express 打造的幹話產生器，可以針對職業別產生幹話。
+
 ## 環境建置與需求 (prerequisites)
 ```
 Node.js 10.15.0
@@ -10,7 +12,7 @@ Node.js 10.15.0
   - 打開終端機輸入 git clone https://github.com/emilycodeee/Rubbish_Talk_Generator.git
   - 點選 Download ZIP 下載
 
-**2. 進入專案資料夾(restaurant_list)使用終端機安裝相關套件**
+**2. 進入專案資料夾(Rubbish_Talk_Generator)使用終端機安裝相關套件**
 
 ```
 npm install
